@@ -1,0 +1,38 @@
+.TH "hv-ms794-config" "1" "September 29, 2018" "hv-ms794-config
+
+1.0.0" ""
+.SH "NAME"
+HAVIT HV-MS794 mouse unofficial configuration utility.
+.SH "SYNOPSIS"
+.PP
+\fBhv-ms794-config\fR [\fBoption\fP]
+.SH "DESCRIPTION"
+.PP
+hv-ms794-config is an utility program allows you to configure the buttons and profiles of your device.
+.PP
+Homepage: https://github.com/pbludov/hv-ms794-config/
+.SH "OPTIONS"
+.IP "\fB-p\fP, \fB\-\-profile\fP         " 10
+Get the active profile.
+.IP "\fB-P\fP, \fB\-\-set\-profile\fP \fBPROFILE\fP" 10
+Select the active profile.
+.IP "\fB-r\fP, \fB\-\-rate\fP         " 10
+Get the active report rate (1 => 125Hz, 2 => 250Hz, 3 => 500Hz, 4 => 100Hz).
+.IP "\fB-R\fP, \fB\-\-set\-rate\fP \fBRATE\fP" 10
+Select the active report rate.
+.IP "\fB\-\-backup\fP \fBFILE\fP" 10
+Backup NAND data to a file.
+.IP "\fB\-\-restore\fP \fBFILE\fP" 10
+Restore NAND data from a file.
+.IP "\fB\fP    \fB\-\-verbose\fP         " 10
+Be verbose (print USB traffic).
+.IP "\fB-v\fP, \fB\-\-version\fP         " 10
+Show version information and exit.
+.IP "\fB-?\fP, \fB\-\-help\fP         " 10
+Show help information and exit.
+.SH "AUTHOR"
+.PP
+This manual page was written by Pavel Bludov. Permission is
+granted to copy, distribute and/or modify this document under
+the terms of the GNU General Public License, Version 2.1.
+

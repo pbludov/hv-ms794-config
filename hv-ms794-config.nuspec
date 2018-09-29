@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>hv-ms794-config</id>
+    <version>1.0.0</version>
+    <tags>admin havit hv-ms794</tags>
+    <copyright>Pavel Bludov</copyright>
+    <authors>Pavel Bludov</authors>
+    <owners>Pavel Bludov</owners>
+    <title>HV-MS794 configuration utility</title>
+    <summary>HAVIT HV-MS794 gaming mouse configuration utility</summary>
+    <description>
+      HAVIT HV-MS794 gaming mouse configuration utility (unofficial). Allows you to configure the buttons and profiles of your device.
+      See https://www.prohavit.com/products/hv-ms794-programmable-gaming-mouse/ for details.
+    </description>
+    <projectUrl>https://github.com/pbludov/hv-ms794-config/</projectUrl>
+    <licenseUrl>https://github.com/pbludov/hv-ms794-config/blob/master/LICENSE</licenseUrl>
+    <packageSourceUrl>https://github.com/pbludov/hv-ms794-config/</packageSourceUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/pbludov/hv-ms794-config/raw/master/res/hv-ms794-config.png</iconUrl>
+    <releaseNotes>
+      * Initial version.
+    </releaseNotes>
+  </metadata>
+  <files>
+    <file src="chocolateyInstall.ps1" target="tools" />
+  </files>
+</package>

@@ -1,0 +1,2 @@
+# HAVIT HV-MS794 gaming mouse write access
+SUBSYSTEM=="usb", ATTRS{idVendor}=="258a", ATTRS{idProduct}=="1007", MODE="0666"

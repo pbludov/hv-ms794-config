@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=HV-MS794 configuration utility
+Comment=HAVIT HV-MS794 gaming mouse unofficial configuration utility.
+Exec=hv-ms794-config %U
+Icon=hv-ms794-config
+StartupNotify=true
+Terminal=false
+Type=Application
+
+Name[en_US]=hv-ms794-config.desktop
