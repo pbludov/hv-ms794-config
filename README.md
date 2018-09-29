@@ -1,8 +1,8 @@
 # hv-ms794-config
 
-[![Buddy Pipeline](https://app.buddy.works/pbludov/hv-ms794-config/pipelines/pipeline/TODO/badge.svg?token=bf26fe8fed990190f11227bb2aa0c7d1e71118737795eed7b5069fff7106a015)](https://app.buddy.works/pbludov/hv-ms794-config/pipelines/pipeline/TODO)
+[![buddy pipeline](https://app.buddy.works/pbludov/hv-ms794-config/pipelines/pipeline/153717/badge.svg?token=bf26fe8fed990190f11227bb2aa0c7d1e71118737795eed7b5069fff7106a015)](https://app.buddy.works/pbludov/hv-ms794-config/pipelines/pipeline/153717)
 [![Build Status](https://api.travis-ci.org/pbludov/hv-ms794-config.svg?branch=master)](https://travis-ci.org/pbludov/hv-ms794-config)
-[![Build status](https://ci.appveyor.com/api/projects/status/TODO?svg=true)](https://ci.appveyor.com/project/pbludov/hv-ms794-config)
+[![Build status](https://ci.appveyor.com/api/projects/status/nx0r631upln4hlja?svg=true)](https://ci.appveyor.com/project/pbludov/hv-ms794-config)
 [![PPA](https://img.shields.io/badge/PPA-available-brightgreen.svg)](https://launchpad.net/~pbludov/+archive/ubuntu/ppa)
 [![Chocolatey](https://img.shields.io/badge/Chocolatey-available-brightgreen.svg)](https://chocolatey.org/packages/hv-ms794-config)
 
